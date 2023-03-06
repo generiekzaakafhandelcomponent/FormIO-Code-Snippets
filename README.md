@@ -7,7 +7,7 @@ To import these code snippets as Live Templates in Intellij, follow the instruct
 ### Import live template configuration
 1. Choose **File | Manage IDE Settings | Import Settings** from the menu.
 
-2. Specify the path to the archive with the exported live template configuration.
+2. Specify the path to the **FormIO_Live_Templates** archive.
 
 3. In the **Import Settings** dialog, select the **Live templates** checkbox and click **OK**.
 
@@ -24,4 +24,4 @@ If you want to contribute to this repository, import the code snippets as instru
 
 3. Note that the **Live templates** checkbox appears in the **Export Settings** dialog if you have at least one custom live template in your project.
 
-4. Click **OK** to generate the file based on live template configuration files. You can share this file with your team members, or import it on another IntelliJ IDEA installation.
+4. Rename the filename to **FormIO_Live_Templates** and click **OK** to generate the file based on live template configuration files. You can share this file with your team members, or import it on another IntelliJ IDEA installation.
