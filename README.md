@@ -20,7 +20,7 @@ If you want to contribute to this repository, import the code snippets as instru
 ### Export live template configuration
 1. Choose **File | Manage IDE Settings | Export Settings** from the menu.
 
-2. In the **Export Settings** dialog, make sure that the **Live templates** checkbox is selected and specify the path and name of the archive, where the exported settings will be saved.
+2. In the **Export Settings** dialog, make sure that the **Live templates (schemes)** checkbox is selected and specify the path and name of the archive, where the exported settings will be saved.
 
 3. Note that the **Live templates** checkbox appears in the **Export Settings** dialog if you have at least one custom live template in your project.
 
